@@ -7,4 +7,4 @@ end
 require 'net/http'
 require 'oj'
 require 'council_tax_finder/version'
-require 'council_tax_finder/base'
+require 'council_tax_finder/lookup'

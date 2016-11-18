@@ -1,0 +1,111 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://app.counciltaxfinder.com/counciltaxfinder/counciltax/w128jd?door=&page=1
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - app.counciltaxfinder.com
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache
+      Pragma:
+      - no-cache
+      Content-Length:
+      - '2881'
+      Content-Type:
+      - text/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 4.0.30319
+      Access-Control-Allow-Origin:
+      - "*"
+      Date:
+      - Fri, 18 Nov 2016 14:51:25 GMT
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        W3siQWRkcmVzcyI6IjYwLCBTVCBTVEVQSEVOUyBBVkVOVUUsIExPTkRPTiwg
+        IFcxMiA4SkQiLCJDb3VuY2lsIE5hbWUiOiJIQU1NRVJTTUlUSCAmIEZVTEhB
+        TSIsIkJhbmQiOiJHIiwiSW1wcm92ZW1lbnQgSW5kaWNhdG9yIjoiPGltZyBz
+        cmM9XCJJbWFnZXMvaW5mby5naWZcIiBhbHQ9XCJJbXByb3ZlbWVudCBpbmRp
+        Y2F0b3JcIj4iLCJMb2NhbCBBdXRob3JpdHkgUmVmZXJlbmNlIE51bWJlciI6
+        IjAwMDMwMTkwNjAwMDE2IiwiVGF4IjoiwqMxLDY3My4wMiIsIlRheCBNb250
+        aGx5IjoiwqMxMzkuNDIiLCJZZWFyIjoiMjAxNi0yMDE3IiwiQ291bmNpbCBX
+        ZWIiOiJsYmhmLmdvdi51ayJ9LHsiQWRkcmVzcyI6IjYyLCBTVCBTVEVQSEVO
+        UyBBVkVOVUUsIExPTkRPTiwgIFcxMiA4SkQiLCJDb3VuY2lsIE5hbWUiOiJI
+        QU1NRVJTTUlUSCAmIEZVTEhBTSIsIkJhbmQiOiJHIiwiSW1wcm92ZW1lbnQg
+        SW5kaWNhdG9yIjoiIiwiTG9jYWwgQXV0aG9yaXR5IFJlZmVyZW5jZSBOdW1i
+        ZXIiOiIwMDAzMDE5MDYyMDAxQSIsIlRheCI6IsKjMSw2NzMuMDIiLCJUYXgg
+        TW9udGhseSI6IsKjMTM5LjQyIiwiWWVhciI6IjIwMTYtMjAxNyIsIkNvdW5j
+        aWwgV2ViIjoibGJoZi5nb3YudWsifSx7IkFkZHJlc3MiOiJGTEFUIEdORCBG
+        TFIgQVQgNjQsIFNUIFNURVBIRU5TIEFWRU5VRSwgTE9ORE9OLCAgVzEyIDhK
+        RCIsIkNvdW5jaWwgTmFtZSI6IkhBTU1FUlNNSVRIICYgRlVMSEFNIiwiQmFu
+        ZCI6IkQiLCJJbXByb3ZlbWVudCBJbmRpY2F0b3IiOiIiLCJMb2NhbCBBdXRo
+        b3JpdHkgUmVmZXJlbmNlIE51bWJlciI6IjAwMDMwMTkwNjQxMDE2IiwiVGF4
+        IjoiwqMxLDAwMy44MSIsIlRheCBNb250aGx5IjoiwqM4My42NSIsIlllYXIi
+        OiIyMDE2LTIwMTciLCJDb3VuY2lsIFdlYiI6ImxiaGYuZ292LnVrIn0seyJB
+        ZGRyZXNzIjoiRkxBVCAxU1QgRkxSIDY0LCBTVCBTVEVQSEVOUyBBVkVOVUUs
+        IExPTkRPTiwgIFcxMiA4SkQiLCJDb3VuY2lsIE5hbWUiOiJIQU1NRVJTTUlU
+        SCAmIEZVTEhBTSIsIkJhbmQiOiJEIiwiSW1wcm92ZW1lbnQgSW5kaWNhdG9y
+        IjoiIiwiTG9jYWwgQXV0aG9yaXR5IFJlZmVyZW5jZSBOdW1iZXIiOiIwMDAz
+        MDE5MDY0MjAxOSIsIlRheCI6IsKjMSwwMDMuODEiLCJUYXggTW9udGhseSI6
+        IsKjODMuNjUiLCJZZWFyIjoiMjAxNi0yMDE3IiwiQ291bmNpbCBXZWIiOiJs
+        YmhmLmdvdi51ayJ9LHsiQWRkcmVzcyI6IkZMQVQgMk5EIEZMUiA2NCwgU1Qg
+        U1RFUEhFTlMgQVZFTlVFLCBMT05ET04sICBXMTIgOEpEIiwiQ291bmNpbCBO
+        YW1lIjoiSEFNTUVSU01JVEggJiBGVUxIQU0iLCJCYW5kIjoiRCIsIkltcHJv
+        dmVtZW50IEluZGljYXRvciI6IiIsIkxvY2FsIEF1dGhvcml0eSBSZWZlcmVu
+        Y2UgTnVtYmVyIjoiMDAwMzAxOTA2NDMwMTEiLCJUYXgiOiLCozEsMDAzLjgx
+        IiwiVGF4IE1vbnRobHkiOiLCozgzLjY1IiwiWWVhciI6IjIwMTYtMjAxNyIs
+        IkNvdW5jaWwgV2ViIjoibGJoZi5nb3YudWsifSx7IkFkZHJlc3MiOiI2Niwg
+        U1QgU1RFUEhFTlMgQVZFTlVFLCBMT05ET04sICBXMTIgOEpEIiwiQ291bmNp
+        bCBOYW1lIjoiSEFNTUVSU01JVEggJiBGVUxIQU0iLCJCYW5kIjoiRyIsIklt
+        cHJvdmVtZW50IEluZGljYXRvciI6IiIsIkxvY2FsIEF1dGhvcml0eSBSZWZl
+        cmVuY2UgTnVtYmVyIjoiMDAwMzAxOTA2NjAwMTciLCJUYXgiOiLCozEsNjcz
+        LjAyIiwiVGF4IE1vbnRobHkiOiLCozEzOS40MiIsIlllYXIiOiIyMDE2LTIw
+        MTciLCJDb3VuY2lsIFdlYiI6ImxiaGYuZ292LnVrIn0seyJBZGRyZXNzIjoi
+        NjgsIFNUIFNURVBIRU5TIEFWRU5VRSwgTE9ORE9OLCAgVzEyIDhKRCIsIkNv
+        dW5jaWwgTmFtZSI6IkhBTU1FUlNNSVRIICYgRlVMSEFNIiwiQmFuZCI6Ikci
+        LCJJbXByb3ZlbWVudCBJbmRpY2F0b3IiOiIiLCJMb2NhbCBBdXRob3JpdHkg
+        UmVmZXJlbmNlIE51bWJlciI6IjAwMDMwMTkwNjgwMDFCIiwiVGF4IjoiwqMx
+        LDY3My4wMiIsIlRheCBNb250aGx5IjoiwqMxMzkuNDIiLCJZZWFyIjoiMjAx
+        Ni0yMDE3IiwiQ291bmNpbCBXZWIiOiJsYmhmLmdvdi51ayJ9LHsiQWRkcmVz
+        cyI6IkZMQVQgQlNUIEFUIDcwLCBTVCBTVEVQSEVOUyBBVkVOVUUsIExPTkRP
+        TiwgIFcxMiA4SkQiLCJDb3VuY2lsIE5hbWUiOiJIQU1NRVJTTUlUSCAmIEZV
+        TEhBTSIsIkJhbmQiOiJEIiwiSW1wcm92ZW1lbnQgSW5kaWNhdG9yIjoiIiwi
+        TG9jYWwgQXV0aG9yaXR5IFJlZmVyZW5jZSBOdW1iZXIiOiIwMDAzMDE5MDcw
+        MTAxQSIsIlRheCI6IsKjMSwwMDMuODEiLCJUYXggTW9udGhseSI6IsKjODMu
+        NjUiLCJZZWFyIjoiMjAxNi0yMDE3IiwiQ291bmNpbCBXZWIiOiJsYmhmLmdv
+        di51ayJ9LHsiQWRkcmVzcyI6IkZMQVQgR05EIEZMUiBGUk9OVCA3MCwgU1Qg
+        U1RFUEhFTlMgQVZFTlVFLCBMT05ET04sICBXMTIgOEpEIiwiQ291bmNpbCBO
+        YW1lIjoiSEFNTUVSU01JVEggJiBGVUxIQU0iLCJCYW5kIjoiQyIsIkltcHJv
+        dmVtZW50IEluZGljYXRvciI6IiIsIkxvY2FsIEF1dGhvcml0eSBSZWZlcmVu
+        Y2UgTnVtYmVyIjoiMDAwMzAxOTA3MDMwMTUiLCJUYXgiOiLCozg5Mi4yNyIs
+        IlRheCBNb250aGx5IjoiwqM3NC4zNiIsIlllYXIiOiIyMDE2LTIwMTciLCJD
+        b3VuY2lsIFdlYiI6ImxiaGYuZ292LnVrIn0seyJBZGRyZXNzIjoiRkxBVCBH
+        TkQgRkxSIFJFQVIgNzAsIFNUIFNURVBIRU5TIEFWRU5VRSwgTE9ORE9OLCAg
+        VzEyIDhKRCIsIkNvdW5jaWwgTmFtZSI6IkhBTU1FUlNNSVRIICYgRlVMSEFN
+        IiwiQmFuZCI6IkMiLCJJbXByb3ZlbWVudCBJbmRpY2F0b3IiOiIiLCJMb2Nh
+        bCBBdXRob3JpdHkgUmVmZXJlbmNlIE51bWJlciI6IjAwMDMwMTkwNzA0MDE4
+        IiwiVGF4IjoiwqM4OTIuMjciLCJUYXggTW9udGhseSI6IsKjNzQuMzYiLCJZ
+        ZWFyIjoiMjAxNi0yMDE3IiwiQ291bmNpbCBXZWIiOiJsYmhmLmdvdi51ayJ9
+        XQ==
+    http_version: 
+  recorded_at: Fri, 18 Nov 2016 14:51:25 GMT
+recorded_with: VCR 2.9.3

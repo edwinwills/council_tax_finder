@@ -1,0 +1,113 @@
+[
+  {
+    "Address": "60, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "G",
+    "Improvement Indicator":
+     "<img src=\"Images/info.gif\" alt=\"Improvement indicator\">",
+    "Local Authority Reference Number": "00030190600016",
+    "Tax": "£1,673.02",
+    "Tax Monthly": "£139.42",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "62, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "G",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "0003019062001A",
+    "Tax": "£1,673.02",
+    "Tax Monthly": "£139.42",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "FLAT GND FLR AT 64, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "D",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "00030190641016",
+    "Tax": "£1,003.81",
+    "Tax Monthly": "£83.65",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "FLAT 1ST FLR 64, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "D",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "00030190642019",
+    "Tax": "£1,003.81",
+    "Tax Monthly": "£83.65",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "FLAT 2ND FLR 64, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "D",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "00030190643011",
+    "Tax": "£1,003.81",
+    "Tax Monthly": "£83.65",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "66, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "G",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "00030190660017",
+    "Tax": "£1,673.02",
+    "Tax Monthly": "£139.42",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "68, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "G",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "0003019068001B",
+    "Tax": "£1,673.02",
+    "Tax Monthly": "£139.42",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "FLAT BST AT 70, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "D",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "0003019070101A",
+    "Tax": "£1,003.81",
+    "Tax Monthly": "£83.65",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "FLAT GND FLR FRONT 70, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "C",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "00030190703015",
+    "Tax": "£892.27",
+    "Tax Monthly": "£74.36",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  },
+  {
+    "Address": "FLAT GND FLR REAR 70, ST STEPHENS AVENUE, LONDON,  W12 8JD",
+    "Council Name": "HAMMERSMITH & FULHAM",
+    "Band": "C",
+    "Improvement Indicator": "",
+    "Local Authority Reference Number": "00030190704018",
+    "Tax": "£892.27",
+    "Tax Monthly": "£74.36",
+    "Year": "2016-2017",
+    "Council Web": "lbhf.gov.uk"
+  }
+]
