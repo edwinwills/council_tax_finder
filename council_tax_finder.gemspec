@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'council_tax_finder'
-  s.version     = '0.0.2'
-  s.date        = '2017-04-04'
+  s.version     = '1.0.0'
+  s.date        = '2017-10-23'
   s.summary     = 'Wrapper for the Council Tax Finder API'
   s.description = 'Wrapper for the Council Tax Finder API from http://counciltaxfinder.com/'
   s.authors     = ['Edwin Wills']

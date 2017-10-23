@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    council_tax_finder (0.0.2)
+    council_tax_finder (1.0.0)
       oj (~> 3.3)
 
 GEM
