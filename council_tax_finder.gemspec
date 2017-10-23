@@ -11,9 +11,9 @@ Gem::Specification.new do |s|
 
   s.files       = Dir["{lib}/**/*", '*.md']
 
-  s.add_dependency 'oj', '>= 2.17', '< 3.0'
-  s.add_development_dependency 'rspec', '~> 3.5'
-  s.add_development_dependency 'webmock', '~> 1'
-  s.add_development_dependency 'vcr', '~> 2.1'
-  s.add_development_dependency 'rake', '~> 11.3'
+  s.add_dependency 'oj', '~> 3.3'
+  s.add_development_dependency 'rspec', '~> 3.7'
+  s.add_development_dependency 'webmock', '~> 3'
+  s.add_development_dependency 'vcr', '~> 3.0'
+  s.add_development_dependency 'rake', '~> 12.1'
 end
