@@ -10,6 +10,8 @@ class CouncilTaxFinder::Lookup
     @door = door
     @page = page
     Oj.load(::Net::HTTP.get(api_endpoint))
+  rescue Oj::ParseError => ex
+    {}
   end
 
   private
